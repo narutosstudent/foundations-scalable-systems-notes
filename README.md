@@ -66,3 +66,4 @@ Writing a message to a queue is typically much faster than writing to a database
 
 ![image](https://github.com/narutosstudent/foundations-scalable-systems-notes/assets/49603590/0e505b53-3894-4f48-937a-0e24f43560d9)
 
+## 
